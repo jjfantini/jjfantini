@@ -11,4 +11,5 @@
 - Python 🐍
 - Mojo 🔥
 - CSS 💅
+- TypeScript
 - HTML
