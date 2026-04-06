@@ -9,7 +9,7 @@ I've spent the last few years building things that handle real money, real data,
 **currently working on:** 🔭
 
 - **[humblDATA](https://github.com/humblFINANCE/humblDATA)** - open-source quant data pipeline built on Polars. first-principles volatility estimators, typed end-to-end, modular MVC-DB architecture underneath. backend that powers humblFINANCE.
-- **agent orchestration (private clients) ** 🤖 - fault-tolerant LLM pipelines with typed outputs, RL feedback loops, retry mechanisms, observability, and distributed agent architectures built to handle concurrent AI operations.
+- **agent orchestration (private clients)** 🤖 - fault-tolerant LLM pipelines with typed outputs, RL feedback loops, retry mechanisms, observability, and distributed agent architectures built to handle concurrent AI operations.
 
 **past projects worth knowing about:**
 
