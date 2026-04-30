@@ -3,8 +3,8 @@
 self-taught engineer. started in molecular biology, ended up building financial infrastructure and AI systems.
 
 I've spent the last few years building things that handle real money, real data, and real-time operations.
-- co-founded and built [Finatic](https://finatic.dev), acloud-native multi-broker trading backend, from 0 --> 1 and brought to revenue.
-- founded [humblFINANCE](https://humblfinance.io), a global macro investment platform delivering high quality trading signals across all assets, from 0 --> 1, and took it through an accelerator prep program.
+- co-founded and built [Finatic](https://finatic.dev), acloud-native multi-broker trading backend, from 0 ➡️ 1 and brought to revenue.
+- founded [humblFINANCE](https://humblfinance.io), a global macro investment platform delivering high quality trading signals across all assets, from 0 ➡️ 1, and took it through an accelerator prep program.
 
 Now, I'm deep in AI agent orchestration and ML feature engineering for finance.
 
